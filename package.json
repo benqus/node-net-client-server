@@ -1,0 +1,11 @@
+{
+  "name": "node-net-client-server",
+  "version": "0.0.0",
+  "description": "Minimalistic implementation about client-server connection using Node's built-in net library",
+  "license": "SEE LICENSE IN LICENSE",
+  "scripts": {
+    "start": "npm run server",
+    "server": "node index",
+    "client": "node client"
+  }
+}
